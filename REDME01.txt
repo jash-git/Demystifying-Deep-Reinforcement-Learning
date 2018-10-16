@@ -1,0 +1,35 @@
+我个人的Github上面有一些学习资源，包括强化学习文献翻译，pytorch学习等等
+https://github.com/xiaoiker
+
+本书的C 语言 Deep Learning框架可运行：
+https://pjreddie.com/darknet/yolo/
+中文注释，见附件
+
+其余的md后缀资源请用 Markdown打开，.ipynb后缀资源请用 jupyter notebook 打开。
+
+
+
+
+
+以下为主流深度学习框架， 由各大网络巨头背书，长期有效。 我个人喜欢pytorch，处于很多理由。
+
+1.tensorflow 下载部署
+https://www.tensorflow.org/
+
+2.pytorch
+http://pytorch.org/
+
+3.MXNet 中国制造 Facebook背书，有中文教程
+https://mxnet.apache.org/
+教程：https://discuss.gluon.ai/
+
+4.caffe 太老了 但是业界很多人也在用 
+http://caffe.berkeleyvision.org/
+
+5. tensorlayer 是TensorFlow的封装，使用上更加方便，
+https://tensorlayer.readthedocs.io/en/latest/
+
+6. keras TensorFlow的封装，入门最好的库，最快上手。对研究员来讲不推荐
+https://keras.io/
+
+

@@ -1,0 +1,1 @@
+这是我个人的pytorch 学习资料，在 https://github.com/xiaoiker 上面还在陆续的更新。请用 jupyter 打开。
